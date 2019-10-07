@@ -362,13 +362,13 @@
 			<div class="col"></div>
 			<div class="col-10">
 				<div class="row">
-					<div class="col1" style="padding: 0px;">
+					<div class="col" style="padding: 0px;">
 						<a href="https://map.kakao.com/?urlX=858656&urlY=476315&urlLevel=3&itemId=920829516&q=%EC%97%98%EC%8B%9C%ED%8B%B0%EA%B4%80%EA%B4%91%ED%98%B8%ED%85%94%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%A8%EB%94%A9%ED%99%80&srcid=920829516&map_type=TYPE_MAP" target="_blank" class="form-control btn btn-lg btn-secondary font-ng font-4v bold">카카오 맵</a>
 					</div>
-					<div class="col2" style="padding: 0px;">
+					<div class="col" style="padding: 0px;">
 						<a href="http://map.naver.com/?sm=clk&query=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84+%EC%B0%BD%EC%9B%90%EC%8B%9C+%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC+%EC%8B%A0%ED%8F%AC%EB%8F%992%EA%B0%80+117-34"target="_blank" class="form-control btn btn-lg btn-secondary font-ng font-4v bold">네이버 맵</a>
 					</div>
-					<div class="col3" style="padding: 0px;">
+					<div class="col" style="padding: 0px;">
 						<a href="https://www.google.com/maps/place/(%EC%A3%BC)%EC%97%98%EC%8B%9C%ED%8B%B0%EA%B4%80%EA%B4%91%ED%98%B8%ED%85%94/@35.2008972,128.5731592,17z/data=!3m1!4b1!4m8!3m7!1s0x356f2de6c34a640f:0x83aac7451485657d!5m2!4m1!1i2!8m2!3d35.2008972!4d128.5753479" target="_blank" class="form-control btn btn-lg btn-info font-ng font-4v bold">구글 맵</a>
 					</div>
 				</div>
