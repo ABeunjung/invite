@@ -157,7 +157,7 @@
 					</div>
 				</div>
 			</div>
-<div class="font-img color-trans" style="width: 100%; background-image:url("https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png"); background-size: 100% 100%;">
+			<div class="col" style="background-image:url("https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png");                 
 		</div>
 			<div class="col-5 text-center" style="padding-left: 0px;">
 				<div class="row">
