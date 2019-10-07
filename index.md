@@ -1,5 +1,6 @@
+
 <!DOCTYPE html>
-<html>
+<html= lang="en-us">
 <head>
 	<meta charset="utf-8">
     <title>강상구♥김은정 청첩장</title>
