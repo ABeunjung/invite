@@ -157,7 +157,7 @@
 					</div>
 				</div>
 			</div>
-<img src="https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png" class= img="100"/>
+<img src="https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png"></img>
 		</div>
 			<div class="col-5 text-center" style="padding-left: 0px;">
 				<div class="row">
