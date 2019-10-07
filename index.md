@@ -2,16 +2,17 @@
 
 <html>
 <head>
+	<title>홍길동♡윤아름 청첩장</title>
 	<meta charset="utf-8">
-    <title>강상구♥김은정 청첩장</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<link rel="shortcut icon" href="../common/favicon.ico">
 	<link rel="icon" href="../common/favicon.ico">
-	<meta property="og:title" content="강상구♥김은정 청첩장">
-	<meta property="og:description" content="2019년 11월 2일 토요일 오전 12시">
-	<meta property="og:image" content="https://user-images.githubusercontent.com/56211242/66284621-a7bf0c00-e903-11e9-98bd-5cc2d2c3ea86.jpg">
-	<meta property="msapplication-TileColor" content="#fd77dc">
-	<meta property="msapplication-TileImage" content="https://user-images.githubusercontent.com/56211242/66285137-37fe5080-e906-11e9-9db6-604a124b9dcc.jpg">
+	<meta property="og:title" content="홍길동♡윤아름 청첩장">
+	<meta property="og:description" content="2019년 6월 2일 일요일 오전 11시">
+	<meta property="og:image" content="https://blackdeery.github.io/invite/proto/thumbnail.png">
+	<meta property="msapplication-TileColor" content="#663333">
+	<meta property="msapplication-TileImage" content="https://blackdeery.github.io/invite/common/144con.png">
+	<link rel="apple-touch-icon-precomposed" href="../common/512con.png">
 	
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="../common/swiper-v.4.5.0.min.css">
@@ -139,9 +140,6 @@
 		p {
 			margin: 0px;
 		}
-        a{
-            text-decoration: none;
-        }
     </style>
 </head>
 <body>
@@ -152,18 +150,17 @@
 				<div class="row">
 					<div class="col-3"></div>
 					<div class="col-9" style="padding: 0px;">
-						<p class="font-nm font-3v margin:6px;">신랑</p>
-						<p class="font-nm font-8v">강상구</p>
+						<p class="font-gv font-6v margin-minus">groom</p>
+						<p class="font-nm font-8v">홍길동</p>
 					</div>
 				</div>
 			</div>
-			<div class="col" style="background-image:url("https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png");                 
-		</div>
+			<div class="col" style="background-image: url(../common/bouquet.png); background-size: 100% 100%"></div>
 			<div class="col-5 text-center" style="padding-left: 0px;">
 				<div class="row">
 					<div class="col-9" style="padding: 0px;">
-						<p class="font-nm font-3v margin:6px;">신부</p>
-						<p class="font-nm font-8v">김은정</p>
+						<p class="font-gv font-6v margin-minus">bride</p>
+						<p class="font-nm font-8v">윤아름</p>
 					</div>
 					<div class="col-3"></div>
 				</div>
@@ -171,7 +168,7 @@
 		</div>
 	</div>
 	<!-- main picture -->
-	<div class="font-img color-trans" style="width: 100%; background-image:url(images/h.jpg); background-size: 100% 100%;">
+	<div class="font-img color-trans" style="width: 100%; background-image:url(./main.jpg); background-size: 100% 100%;">
 		<p>　</p>
 	</div>
 	<!-- schedule -->
@@ -195,8 +192,8 @@
 		<div class="row">
 			<div class="col"></div>
 			<div class="col-10 font-ng font-4v text-right">
-				<p class="bold">2019년 11월 2일 토요일 오전 12시</p>
-				<p>마산 엘시티 스카이웨딩홀</p>
+				<p class="bold">2019년 6월 2일 일요일 오전 11시</p>
+				<p>서울 이멘마하 웨딩홀 브류나크홀</p>
 				<p class="margin-minus">&nbsp;</p>
 				<p class="margin-minus">&nbsp;</p>
 			</div>
@@ -241,8 +238,8 @@
 		<div class="row color-black" style="background-color: floralwhite">
 			<div class="col"></div>
 			<div class="col-10 font-ng font-4v">
-				<p>강호영.김영미 <span class="font-2hv">장남</span> 강상구</p>
-				<p>김성욱.황난영 <span class="font-2hv">장녀</span> 김은정</p>
+				<p>홍갑환·이은실 <span class="font-2hv">차남</span> 홍길동</p>
+				<p>윤정우·정혜림 <span class="font-2hv">장녀</span> 윤아름</p>
 				<p class="margin-minus">&nbsp;</p>
 				<p class="margin-minus">&nbsp;</p>
 			</div>
@@ -274,18 +271,18 @@
 					<div class="col" style="padding: 0px;">
 						<p class="font-ng color-blue bold">신랑측</p>
 						<p class="margin-minus">&nbsp;</p>
-						<p><span class="font-3v color-gray">신랑</span> <a href="tel:01048185599">강상구 <i class="fas fa-phone-square"></i></a></p>
-						<p><span class="font-3v color-gray">아버지</span> <a href="tel:01050334381">강호영 <i class="fas fa-phone-square"></i></a></p>
-						<p><span class="font-3v color-gray">어머니</span> <a href="tel:01038874381">김영미 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">신랑</span> <a href="tel:01012345678">홍길동 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">아버지</span> <a href="tel:01012345678">홍갑환 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">어머니</span> <a href="tel:01012345678">이은실 <i class="fas fa-phone-square"></i></a></p>
 						<p class="margin-minus">&nbsp;</p>
 						<p class="margin-minus">&nbsp;</p>
 					</div>
 					<div class="col" style="padding: 0px;">
 						<p class="font-ng color-pink bold">신부측</p>
 						<p class="margin-minus">&nbsp;</p>
-						<p><span class="font-3v color-gray">신부</span> <a href="tel:010844901218">김은정 <i class="fas fa-phone-square"></i></a></p>
-						<p><span class="font-3v color-gray">아버지</span> <a href="tel:01053887190">김성욱 <i class="fas fa-phone-square"></i></a></p>
-						<p><span class="font-3v color-gray">어머니</span> <a href="tel:01093417195">황난영 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">신부</span> <a href="tel:01012345678">윤아름 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">아버지</span> <a href="tel:01012345678">윤정우 <i class="fas fa-phone-square"></i></a></p>
+						<p><span class="font-3v color-gray">어머니</span> <a href="tel:01012345678">정혜림 <i class="fas fa-phone-square"></i></a></p>
 					</div>
 				</div>
 				
@@ -316,44 +313,22 @@
 			<div class="col-10 font-ng font-3v">
 				<!-- kakaomap start -->
 				
-				<a href="https://map.kakao.com/?urlX=494897&urlY=1132210&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false" target="_blank"><img width="100%" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=5&MX=858656&MY=476315&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc"></a><div class="hide" style="overflow:hidden;padding:7px 11px;border:1px solid #dfdfdf;border-color:rgba(0,0,0,.1);border-radius:0 0 2px 2px;background-color:#f9f9f9;width:100%;"><strong style="float: left;"><img src="https://t1.daumcdn.net/localimg/localimages/07/2018/pc/common/logo_kakaomap.png" width="72" height="16" alt="카카오맵"></strong><div style="float: right;position:relative"><a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=494897&urlY=1132210&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">지도 크게 보기</a></div></div>
+				<a href="https://map.kakao.com/?urlX=494897&urlY=1132210&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false" target="_blank"><img width="100%" src="https://map2.daum.net/map/mapservice?FORMAT=PNG&SCALE=5&MX=494897&MY=1132210&S=0&IW=504&IH=310&LANG=0&COORDSTM=WCONGNAMUL&logo=kakao_logo" style="border:1px solid #ccc"></a><div class="hide" style="overflow:hidden;padding:7px 11px;border:1px solid #dfdfdf;border-color:rgba(0,0,0,.1);border-radius:0 0 2px 2px;background-color:#f9f9f9;width:100%;"><strong style="float: left;"><img src="https://t1.daumcdn.net/localimg/localimages/07/2018/pc/common/logo_kakaomap.png" width="72" height="16" alt="카카오맵"></strong><div style="float: right;position:relative"><a style="font-size:12px;text-decoration:none;float:left;height:15px;padding-top:1px;line-height:15px;color:#000" target="_blank" href="https://map.kakao.com/?urlX=494897&urlY=1132210&urlLevel=4&map_type=TYPE_MAP&map_hybrid=false">지도 크게 보기</a></div></div>
 				
 				<!-- kakaomap end -->
+				<p class="bold text-right">서울 이멘마하 웨딩홀</p>
+				<p class="text-right">서울 종로구 세종로 1-58</p>
+				<p class="text-right">TEL: (02)123-5678</p>
+				
+				<p class="bold">버스 이용시:</p>
+				<p>127,827 하차 후 5분 도보</p>
 				<p class="margin-minus">&nbsp;</p>
-				<p class="bold text-right">마산 엘시티 스카이웨딩홀 13층</p>
+				<p class="bold">지하철 이용시:</p>
+				<p>2호선 ~역 하차후 5분 도보</p>
 				<p class="margin-minus">&nbsp;</p>
-				<p class="text-right">경상남도 마산합포구 해안대로 317</p>
-				<p class="text-right">TEL: (055)248-2700</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="bold">고속버스 이용시:</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p>서울고속버스터미널(강남) → 마산고속버스터미널</p>
-				<p>소요시간 : 약3시간 55분</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="bold">고속버스 이용시:</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p>마산고속버스터미널 → 엘시티스카이웨딩홀</p>
-				<p>택시 : 3.22Km (약 8분)</p>
-				<p>버스 : 703,102,108,109,801</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p>마산시외버스터미널 → 엘시티스카이웨딩홀</p>
-				<p>택시 : 4.86Km (약 15분)</p>
-				<p>버스 : 703,800,102,109,27</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="bold">KTX이용시:</p>
-				<p>서울역 → 마산역 (소요시간 : 약3시간)</p>
-				<p>마산역 → 엘시티호텔</p>
-				<p>택시 : 4.16Km (약 10분)</p>
-				<p>버스 : 800,102,108,109,100</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="bold">주차</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="color=bold">※주차권을 꼭 챙기세요</p>
-				<p class="margin-minus">&nbsp;</p>
-				<p>LCT호텔주차장 : 무료 /외부지정주차장 : 1시간무료 </p>
-				<p class="margin-minus">&nbsp;</p>
-				<p class="bold">P1.본호텔 주차장     P2.서울주차장</p>
-				<p class="color=red">P3.영진주차장        P4.금성주차장</p>
+				<p class="bold">자가용 이용시:</p>
+				<p>지하주차장 2층, 3층 (주차권 받아가세요.)</p>
+				<p>또는 뒷편 시청 공용주차장 이용</p>
 				<p class="margin-minus">&nbsp;</p>
 			</div>
 			<div class="col"></div>
@@ -363,13 +338,13 @@
 			<div class="col-10">
 				<div class="row">
 					<div class="col" style="padding: 0px;">
-						<a href="https://map.kakao.com/?urlX=858656&urlY=476315&urlLevel=3&itemId=920829516&q=%EC%97%98%EC%8B%9C%ED%8B%B0%EA%B4%80%EA%B4%91%ED%98%B8%ED%85%94%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%A8%EB%94%A9%ED%99%80&srcid=920829516&map_type=TYPE_MAP" target="_blank" class="form-control btn btn-lg btn-secondary font-ng font-4v bold">카카오 맵</a>
+						<a href="kakaomap://look?p=37.578038,126.976869" target="_blank" class="form-control btn btn-lg btn-secondary font-ng font-4v bold">카카오 맵</a>
 					</div>
 					<div class="col" style="padding: 0px;">
-						<a href="http://map.naver.com/?sm=clk&query=%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84+%EC%B0%BD%EC%9B%90%EC%8B%9C+%EB%A7%88%EC%82%B0%ED%95%A9%ED%8F%AC%EA%B5%AC+%EC%8B%A0%ED%8F%AC%EB%8F%992%EA%B0%80+117-34"target="_blank" class="form-control btn btn-lg btn-secondary font-ng font-4v bold">네이버 맵</a>
+						<a href="navermaps://?menu=location&amp;lat=37.578038&amp;lng=126.976869" target="_blank" class="form-control btn btn-lg btn-primary font-ng font-4v bold">네이버 맵</a>
 					</div>
 					<div class="col" style="padding: 0px;">
-						<a href="https://www.google.com/maps/place/(%EC%A3%BC)%EC%97%98%EC%8B%9C%ED%8B%B0%EA%B4%80%EA%B4%91%ED%98%B8%ED%85%94/@35.2008972,128.5731592,17z/data=!3m1!4b1!4m8!3m7!1s0x356f2de6c34a640f:0x83aac7451485657d!5m2!4m1!1i2!8m2!3d35.2008972!4d128.5753479" target="_blank" class="form-control btn btn-lg btn-info font-ng font-4v bold">구글 맵</a>
+						<a href="https://goo.gl/maps/sEECrrGbjAc2zGGt5" target="_blank" class="form-control btn btn-lg btn-info font-ng font-4v bold">구글 맵</a>
 					</div>
 				</div>
 			</div>
@@ -389,28 +364,28 @@
 		<!-- Additional required wrapper -->
 		<div class="swiper-wrapper">
 			<!-- Slides -->
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284607-a261c180-e903-11e9-8783-d4c729b2e40e.jpg);100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img01.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg);background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img02.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284608-a2fa5800-e903-11e9-9aa2-d610b53ac45d.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img03.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
-				<p>　</p>
-			</div>9
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284608-a2fa5800-e903-11e9-9aa2-d610b53ac45d.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img04.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img05.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img06.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img07.jpg); background-size: 100% 100%;">
+				<p>　</p>
+			</div>
+			<div class="swiper-slide font-img color-trans" style="background-image:url(./img08.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
 		</div>
@@ -459,7 +434,7 @@
         })
 	</script>
 	<div class="text-right font-ng font-3v">
-		<p>Powerd by - 저희 예비신랑신부가 직접만든 모바일 청첩장입니다 예쁘게 봐주세요 ♥</p>
+		<p>Powerd by - 玄鹿</p>
 	</div>
 </body>
 </html>
