@@ -401,7 +401,7 @@
 			<div class="swiper-slide font-img color-trans" style="background-image:url(images/g.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>9
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/f.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284608-a2fa5800-e903-11e9-9aa2-d610b53ac45d.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
 			<div class="swiper-slide font-img color-trans" style="background-image:url(images/d.jpg); background-size: 100% 100%;">
