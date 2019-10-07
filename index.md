@@ -10,9 +10,8 @@
 	<meta property="og:title" content="강상구♥김은정 청첩장">
 	<meta property="og:description" content="2019년 11월 2일 토요일 오전 12시">
 	<meta property="og:image" content="https://user-images.githubusercontent.com/56211242/66284621-a7bf0c00-e903-11e9-98bd-5cc2d2c3ea86.jpg">
-	<meta property="msapplication-TileColor" content="#663333">
-	<meta property="msapplication-TileImage" content="https://blackdeery.github.io/invite/common/144con.png">
-	<link rel="apple-touch-icon-precomposed" href="../common/512con.png">
+	<meta property="msapplication-TileColor" content="#fd77dc">
+	<meta property="msapplication-TileImage" content="https://user-images.githubusercontent.com/56211242/66285137-37fe5080-e906-11e9-9db6-604a124b9dcc.jpg">
 	
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="../common/swiper-v.4.5.0.min.css">
