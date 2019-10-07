@@ -157,7 +157,7 @@
 					</div>
 				</div>
 			</div>
-<img src="https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png"></img>
+<div class="font-img color-trans" style="width: 100%; background-image:url("https://user-images.githubusercontent.com/56211242/66284606-9f66d100-e903-11e9-83d1-53bf48667b90.png"); background-size: 100% 100%;">
 		</div>
 			<div class="col-5 text-center" style="padding-left: 0px;">
 				<div class="row">
@@ -389,28 +389,28 @@
 		<!-- Additional required wrapper -->
 		<div class="swiper-wrapper">
 			<!-- Slides -->
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/a.jpg);100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284607-a261c180-e903-11e9-8783-d4c729b2e40e.jpg);100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/b.jpg);background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg);background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/e.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284608-a2fa5800-e903-11e9-9aa2-d610b53ac45d.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/g.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>9
 			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284608-a2fa5800-e903-11e9-9aa2-d610b53ac45d.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(images/d.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(./img07.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
-			<div class="swiper-slide font-img color-trans" style="background-image:url(./img08.jpg); background-size: 100% 100%;">
+			<div class="swiper-slide font-img color-trans" style="background-image:url(https://user-images.githubusercontent.com/56211242/66284610-a392ee80-e903-11e9-94c0-d9bca2843c87.jpg); background-size: 100% 100%;">
 				<p>　</p>
 			</div>
 		</div>
